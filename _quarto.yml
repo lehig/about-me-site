@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "Lehi Gracia"
+  sidebar:
+    style: "floating"    # or "docked"
+    search: false
+    contents:
+      - text: "Home"
+        href: index.qmd
+        icon: house-fill
+      - text: "About Me"
+        href: about.qmd
+        icon: person-circle
+      - text: "Projects"
+        href: projects.qmd
+        icon: hammer
+      - text: "Professional Opportunities"
+        href: professional-opportunities.qmd
+        icon: newspaper
+      - text: "Contact"
+        href: contact.qmd
+        icon: envelope-fill
+format:
+  html:
+    theme: darkly         # optional Bootstrap theme
+    toc: true            # adds a table of contents for each page
