@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "These are my projects",
+    "crumbs": [
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Portfolio",
+    "section": "",
+    "text": "Hello and welcome to my portfolio showcasing the different projects that I’ve worked on, the accomplishments I’ve achieved, and the journey I’ve gone through as a Software Developer. I build thoughtful, end-to-end software that bridges elegant front-end experiences with powerful, cloud-native back-ends.\nAs a full-stack developer specializing in Go, React, and AWS, I’m passionate about creating reliable systems that solve real problems — from secure data pipelines to seamless user interfaces. I approach each project with curiosity, precision, and a drive to learn, aiming to craft software that’s as scalable as it is meaningful.\nThis site showcases my ongoing projects, technical explorations, and the creative process behind my work as a developer.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "This page is all about me",
+    "crumbs": [
+      "About Me"
+    ]
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Me",
+    "section": "",
+    "text": "Here is where you can contact me",
+    "crumbs": [
+      "Contact"
+    ]
+  }
+]
