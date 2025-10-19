@@ -24,7 +24,7 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "This page is all about me",
+    "text": "Lehi Gracia\n\nEmail: lehigraciaiii@gmail.com\nLinkedIn Profile\n\nI’ve been programming since I was 14 years old, and ever since then, I haven’t stopped learning and creating. What started as a curiosity for how code works has grown into a lifelong passion for building systems that are efficient, secure, and meaningful.\nI’m currently pursuing a B.S. in Computer Science with an emphasis in Algorithms and Machine Learning at Brigham Young University–Idaho, where I’ve gained a deep understanding of how math, logic, and good software design come together to solve real-world problems.\nRecently, I interned as a Software Engineer at BoomID, where I developed cloud-based systems using Go and AWS to analyze photo metadata for biometric authentication and designed a secure “lock box” for encrypted file sharing. Through that experience, I discovered how much I enjoy bridging front-end, back-end, and cloud architecture to deliver full solutions.\nBeyond the technical side, I’ve also worked in customer- facing roles where I learned the importance of empathy, clear communication, and teamwork—skills that now influence how I approach both people and code.\nI’m passionate about writing clean, maintainable code, continuously improving my craft, and collaborating on projects that make a difference. I’m currently working on several personal projects involving Go, React, and AWS, with the goal of refining my skills in full-stack and cloud-native development.",
     "crumbs": [
       "About Me"
     ]

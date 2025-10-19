@@ -2,6 +2,8 @@
 title: "My Portfolio"
 ---
 
+![](sunset.png){align="center"}
+
 Hello and welcome to my portfolio showcasing the different 
 projects that I've worked on, the accomplishments I've 
 achieved, and the journey I've gone through as a Software 
