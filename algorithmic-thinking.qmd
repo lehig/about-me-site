@@ -1,0 +1,8 @@
+---
+title: "Algorithmic Thinking"
+---
+
+## Tic Tac Toe AI
+
+[This](https://github.com/lehig/tic-tac-toe-AI) is a project that 
+encapsulates a simple algorithm in always winning tic tac toe. 

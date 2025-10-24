@@ -1,0 +1,10 @@
+---
+title: "Security and Authentication"
+---
+
+
+##  Utilizing encryption and decryption to send files
+https://github.com/lehig/Hello-World/tree/main/SendAFile
+
+## Utilizing GopenPGP and AWS S3 Buckets
+https://github.com/lehig/gpg-privacy

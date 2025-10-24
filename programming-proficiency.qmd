@@ -1,0 +1,21 @@
+---
+title: "Programming Profeciency"
+---
+
+## C-Sharp
+
+[This](https://github.com/lehig/cse210-projects/tree/main/prove/Develop04) 
+is a meditation app that uses polymorphism to accomplish putting the user
+in a meditative state. 
+
+## Go
+
+[This](https://github.com/lehig/WebCrawly) is a web crawler I made using 
+Go and parallelism to scrape through the designated website.
+
+## Python
+
+[This](https://github.com/lehig/CSE251/blob/master/week03/assignment/assignment.py) 
+is a program that removes greenscreen from a video and replaces it with 
+the desired image. This uses parallism and concurrency to remove the green 
+pixels from each image. 

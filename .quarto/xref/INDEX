@@ -13,5 +13,20 @@
   },
   "professional-opportunities.qmd": {
     "professional-opportunities.html": "b14a6ab4"
+  },
+  "skills.qmd": {
+    "skills.html": "fc4328b3"
+  },
+  "algorithmic-thinking.qmd": {
+    "algorithmic-thinking.html": "03f66032"
+  },
+  "programming-proficiency.qmd": {
+    "programming-proficiency.html": "73924567"
+  },
+  "security-authentication.qmd": {
+    "security-authentication.html": "11d2a3c1"
+  },
+  "web-development.qmd": {
+    "web-development.html": "f1bde7bb"
   }
 }

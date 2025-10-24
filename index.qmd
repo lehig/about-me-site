@@ -1,6 +1,8 @@
 ---
-title: "My Portfolio"
+title: ""
 ---
+
+![](My Portfolio.png){width=800px}
 
 Hello and welcome to my portfolio showcasing the different 
 projects that I've worked on, the accomplishments I've 

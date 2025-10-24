@@ -2,6 +2,8 @@
 title: "About Me"
 ---
 
+![](about-me-pic.jpg){style="height:100px; width:auto;"}
+
 ### Lehi Gracia
 
 - Feel free to send me an [email](mailto:lehigraciaiii@gmail.com)

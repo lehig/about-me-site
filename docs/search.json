@@ -4,7 +4,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "These are my projects",
+    "text": "I am currently studying Computer Science with an emphasis in algorithms and machine learning. During my studies I have learned and applied different skillsets such as algorithmic thinking, web development, programming in different languages, and encryption. I have mastered the basics of computer programming by understanding class structures, data structures, and object-oriented programming.\nBelow are pages that will have links to different pojects I’ve worked on. If you have any questions about any of them, feel free to shoot me an email.\n\nAlgorithmic Thinking\nProgramming Profeciency\nSecurity and Authentication\nWeb Development",
     "crumbs": [
       "Projects"
     ]
@@ -12,7 +12,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "My Portfolio",
+    "title": "Lehi Gracia",
     "section": "",
     "text": "Hello and welcome to my portfolio showcasing the different projects that I’ve worked on, the accomplishments I’ve achieved, and the journey I’ve gone through as a Software Developer. I build thoughtful, end-to-end software that bridges elegant front-end experiences with powerful, cloud-native back-ends.\nAs a full-stack developer specializing in Go, React, and AWS, I’m passionate about creating reliable systems that solve real problems — from secure data pipelines to seamless user interfaces. I approach each project with curiosity, precision, and a drive to learn, aiming to craft software that’s as scalable as it is meaningful.\nThis site showcases my ongoing projects, technical explorations, and the creative process behind my work as a developer.",
     "crumbs": [
@@ -38,5 +38,96 @@
     "crumbs": [
       "Contact"
     ]
+  },
+  {
+    "objectID": "web-development.html",
+    "href": "web-development.html",
+    "title": "Web Development",
+    "section": "",
+    "text": "This is a project I am working that incorporates front-end, back-end, and APIs, all using AWS products to accomplish it."
+  },
+  {
+    "objectID": "algorithmic-thinking.html",
+    "href": "algorithmic-thinking.html",
+    "title": "Algorithmic Thinking",
+    "section": "",
+    "text": "This is a project that encapsulates a simple algorithm in always winning tic tac toe."
+  },
+  {
+    "objectID": "programming-proficiency.html",
+    "href": "programming-proficiency.html",
+    "title": "Programming Profeciency",
+    "section": "",
+    "text": "This is a meditation app that uses polymorphism to accomplish putting the user in a meditative state."
+  },
+  {
+    "objectID": "programming-proficiency.html#go",
+    "href": "programming-proficiency.html#go",
+    "title": "Programming Profeciency",
+    "section": "Go",
+    "text": "Go\nThis is a web crawler I made using Go and parallelism to scrape through the designated website."
+  },
+  {
+    "objectID": "programming-proficiency.html#python",
+    "href": "programming-proficiency.html#python",
+    "title": "Programming Profeciency",
+    "section": "Python",
+    "text": "Python\nThis is a program that removes greenscreen from a video and replaces it with the desired image. This uses parallism and concurrency to remove the green pixels from each image."
+  },
+  {
+    "objectID": "security-authentication.html",
+    "href": "security-authentication.html",
+    "title": "Security and Authentication",
+    "section": "",
+    "text": "https://github.com/lehig/Hello-World/tree/main/SendAFile"
+  },
+  {
+    "objectID": "security-authentication.html#utilizing-encryption-and-decryption-to-send-files",
+    "href": "security-authentication.html#utilizing-encryption-and-decryption-to-send-files",
+    "title": "Security and Authentication",
+    "section": "",
+    "text": "https://github.com/lehig/Hello-World/tree/main/SendAFile"
+  },
+  {
+    "objectID": "security-authentication.html#utilizing-gopenpgp-and-aws-s3-buckets",
+    "href": "security-authentication.html#utilizing-gopenpgp-and-aws-s3-buckets",
+    "title": "Security and Authentication",
+    "section": "Utilizing GopenPGP and AWS S3 Buckets",
+    "text": "Utilizing GopenPGP and AWS S3 Buckets\nhttps://github.com/lehig/gpg-privacy"
+  },
+  {
+    "objectID": "algorithmic-thinking.html#t",
+    "href": "algorithmic-thinking.html#t",
+    "title": "Algorithmic Thinking",
+    "section": "",
+    "text": "Tic Tac Toe AI"
+  },
+  {
+    "objectID": "algorithmic-thinking.html#tic",
+    "href": "algorithmic-thinking.html#tic",
+    "title": "Algorithmic Thinking",
+    "section": "",
+    "text": "Tic Tac Toe AI"
+  },
+  {
+    "objectID": "algorithmic-thinking.html#tic-tac-toe-ai",
+    "href": "algorithmic-thinking.html#tic-tac-toe-ai",
+    "title": "Algorithmic Thinking",
+    "section": "",
+    "text": "This is a project that encapsulates a simple algorithm in always winning tic tac toe."
+  },
+  {
+    "objectID": "web-development.html#website-food-truck-locator",
+    "href": "web-development.html#website-food-truck-locator",
+    "title": "Web Development",
+    "section": "",
+    "text": "This is a project I am working that incorporates front-end, back-end, and APIs, all using AWS products to accomplish it."
+  },
+  {
+    "objectID": "programming-proficiency.html#c-sharp",
+    "href": "programming-proficiency.html#c-sharp",
+    "title": "Programming Profeciency",
+    "section": "",
+    "text": "This is a meditation app that uses polymorphism to accomplish putting the user in a meditative state."
   }
 ]
