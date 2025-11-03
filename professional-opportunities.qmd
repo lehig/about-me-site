@@ -2,3 +2,44 @@
 title: "Professional Opportunities"
 ---
 
+## Four Year Plan
+
+Year 1 – Get a job as a software engineer
+
+* Networking
+    + Talk with my contacts in the field already
+    + Ask for more informational interviews
+* Prepare
+    + Finish two projects:
+        - One with AI
+        - One without AI
+
+Year 2 – Get promoted in some capacity
+
+* Leadership
+    + Ask my superiors how I can show leadership abilities
+    + Go the extra mile on projects 
+* Technical
+    + Continue learning through implementation:
+        - Always have a personal project in the background
+* Networking
+    + Go to hackathons, conferences, etc. to meet people and stay up to date in the technology of the field
+
+Year 3 – Get promoted as Senior developer
+
+* Leadership
+    + Offer to help those that are struggling with their code
+    + Serve as a team lead at a hackathon
+* Teamwork
+    + Ask my superiors where I need to improve to become more effective for them
+
+Year 4 – Found a start up 
+
+* Networking
+    + Talk with peers about an idea and ask if they are interested in helping me out
+    + Find avenues of funding so that we can get the money that we need for it
+* Leadership
+    + Have a vision for the project
+    + Lay out components that I need for it
+    + Delegate to those that are willing to start this with me
+

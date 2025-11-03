@@ -28,5 +28,17 @@
   },
   "web-development.qmd": {
     "web-development.html": "f1bde7bb"
+  },
+  "cloud.qmd": {
+    "cloud.html": "536cca29"
+  },
+  "data.qmd": {
+    "data.html": "6d691d98"
+  },
+  "database.qmd": {
+    "database.html": "1b72c4f1"
+  },
+  "machinelearning.qmd": {
+    "machinelearning.html": "04b4c549"
   }
 }

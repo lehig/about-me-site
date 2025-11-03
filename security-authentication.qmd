@@ -4,7 +4,21 @@ title: "Security and Authentication"
 
 
 ##  Utilizing encryption and decryption to send files
-https://github.com/lehig/Hello-World/tree/main/SendAFile
+
+[Project Link](https://github.com/lehig/Hello-World/tree/main/SendAFile)
+
+This project uses C# as its only language. It also uses a couple of libraries that 
+create sockets that then are used to send and recieve files locally from computer to 
+computer. This program also gives the option of using encryption on a file and then 
+decrypting that file. 
 
 ## Utilizing GopenPGP and AWS S3 Buckets
-https://github.com/lehig/gpg-privacy
+
+[Project Link](https://github.com/lehig/gpg-privacy)
+
+This project uses Go as its only language. This uses the common GopenPGP library. This 
+program can receive a file, encrypt that file with the specified public key of 
+the recipient, send the file to an S3 bucket, then can be retrieved and decrypted 
+using the public and private key of the recipient. 
+
+

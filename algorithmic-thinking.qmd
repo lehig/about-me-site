@@ -4,5 +4,8 @@ title: "Algorithmic Thinking"
 
 ## Tic Tac Toe AI
 
-[This](https://github.com/lehig/tic-tac-toe-AI) is a project that 
-encapsulates a simple algorithm in always winning tic tac toe. 
+[Project link](https://github.com/lehig/tic-tac-toe-AI) 
+
+This is a project that encapsulates a simple algorithm in always winning tic tac toe. 
+Originally designed to be played by two people, this program makes it possible to play 
+tic tac toe with just yourself. The program uses Go as the only language. 

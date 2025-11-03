@@ -1,0 +1,14 @@
+---
+title: "Cloud and DevOps"
+---
+
+## Food Truck Locator
+
+[Project link](https://github.com/lehig/food-truck-locator)
+
+This is currently a project I am actively working on. It uses AWS products like S3, 
+DynamoDB, Amplify, Lambda, and others to create a website from back to front. It 
+will be a platform for small businesses such as food trucks will be easily found 
+by local consumers. It will be a place where local consumers can subscribe to 
+notificaitons from the food trucks. 
+

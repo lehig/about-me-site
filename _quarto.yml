@@ -20,9 +20,6 @@ website:
       - text: "Professional Opportunities"
         href: professional-opportunities.qmd
         icon: newspaper
-      - text: "Contact"
-        href: contact.qmd
-        icon: envelope-fill
 format:
   html:
     theme: darkly         # optional Bootstrap theme

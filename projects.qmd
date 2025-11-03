@@ -16,3 +16,7 @@ If you have any questions about any of them, feel free to shoot me an email.
 - [Programming Profeciency](/programming-proficiency.qmd)
 - [Security and Authentication](/security-authentication.qmd)
 - [Web Development](/web-development.qmd)
+- [Cloud](/cloud.qmd)
+- [Data Analysis and Visualization](/data.qmd)
+- [Machine Learning](/machinelearning.qmd)
+- [Database Design](/database.qmd)

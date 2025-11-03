@@ -1,0 +1,13 @@
+---
+title: "Data Analysis and Visualization"
+---
+
+## Construction Date
+
+[Project link](https://turbo-adventure-73gl5qg.pages.github.io/250_Projects/project4.html)
+
+Using a decision tree machine learning algorithm, I developed a model to 
+determine whether a house was built before or after 1980, based on several 
+data points. The report indicates that the number of stories a house has, the 
+type of garage, and the living area significantly contribute to the algorithm’s 
+ability to determine the construction date.

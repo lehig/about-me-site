@@ -1,12 +1,53 @@
 [
   {
+    "objectID": "web-development.html",
+    "href": "web-development.html",
+    "title": "Web Development",
+    "section": "",
+    "text": "This is a project I am working that incorporates front-end, back-end, and APIs, all using AWS products to accomplish it. It will be a platform for small businesses such as food trucks will be easily found by local consumers. It will be a place where local consumers can subscribe to notificaitons from the food trucks."
+  },
+  {
+    "objectID": "web-development.html#food-truck-locator",
+    "href": "web-development.html#food-truck-locator",
+    "title": "Web Development",
+    "section": "",
+    "text": "This is a project I am working that incorporates front-end, back-end, and APIs, all using AWS products to accomplish it. It will be a platform for small businesses such as food trucks will be easily found by local consumers. It will be a place where local consumers can subscribe to notificaitons from the food trucks."
+  },
+  {
+    "objectID": "web-development.html#duneology",
+    "href": "web-development.html#duneology",
+    "title": "Web Development",
+    "section": "Duneology",
+    "text": "Duneology\nProject link\nThis website is a simple one that uses HTML and CSS to showcase the vast worldbuilding that happened for Dune to come about. This website has a couple of pages that show different styles and techniques that I learned along the way."
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "I am currently studying Computer Science with an emphasis in algorithms and machine learning. During my studies I have learned and applied different skillsets such as algorithmic thinking, web development, programming in different languages, and encryption. I have mastered the basics of computer programming by understanding class structures, data structures, and object-oriented programming.\nBelow are pages that will have links to different pojects I’ve worked on. If you have any questions about any of them, feel free to shoot me an email.\n\nAlgorithmic Thinking\nProgramming Profeciency\nSecurity and Authentication\nWeb Development",
+    "text": "I am currently studying Computer Science with an emphasis in algorithms and machine learning. During my studies I have learned and applied different skillsets such as algorithmic thinking, web development, programming in different languages, and encryption. I have mastered the basics of computer programming by understanding class structures, data structures, and object-oriented programming.\nBelow are pages that will have links to different pojects I’ve worked on. If you have any questions about any of them, feel free to shoot me an email.\n\nAlgorithmic Thinking\nProgramming Profeciency\nSecurity and Authentication\nWeb Development\nCloud\nData Analysis and Visualization\nMachine Learning\nDatabase Design",
     "crumbs": [
       "Projects"
+    ]
+  },
+  {
+    "objectID": "professional-opportunities.html",
+    "href": "professional-opportunities.html",
+    "title": "Professional Opportunities",
+    "section": "",
+    "text": "Year 1 – Get a job as a software engineer\n\nNetworking\n\nTalk with my contacts in the field already\nAsk for more informational interviews\n\nPrepare\n\nFinish two projects:\n\nOne with AI\nOne without AI\n\n\n\nYear 2 – Get promoted in some capacity\n\nLeadership\n\nAsk my superiors how I can show leadership abilities\nGo the extra mile on projects\n\nTechnical\n\nContinue learning through implementation:\n\nAlways have a personal project in the background\n\n\nNetworking\n\nGo to hackathons, conferences, etc. to meet people and stay up to date in the technology of the field\n\n\nYear 3 – Get promoted as Senior developer\n\nLeadership\n\nOffer to help those that are struggling with their code\nServe as a team lead at a hackathon\n\nTeamwork\n\nAsk my superiors where I need to improve to become more effective for them\n\n\nYear 4 – Found a start up\n\nNetworking\n\nTalk with peers about an idea and ask if they are interested in helping me out\nFind avenues of funding so that we can get the money that we need for it\n\nLeadership\n\nHave a vision for the project\nLay out components that I need for it\nDelegate to those that are willing to start this with me",
+    "crumbs": [
+      "Professional Opportunities"
+    ]
+  },
+  {
+    "objectID": "professional-opportunities.html#four-year-plan",
+    "href": "professional-opportunities.html#four-year-plan",
+    "title": "Professional Opportunities",
+    "section": "",
+    "text": "Year 1 – Get a job as a software engineer\n\nNetworking\n\nTalk with my contacts in the field already\nAsk for more informational interviews\n\nPrepare\n\nFinish two projects:\n\nOne with AI\nOne without AI\n\n\n\nYear 2 – Get promoted in some capacity\n\nLeadership\n\nAsk my superiors how I can show leadership abilities\nGo the extra mile on projects\n\nTechnical\n\nContinue learning through implementation:\n\nAlways have a personal project in the background\n\n\nNetworking\n\nGo to hackathons, conferences, etc. to meet people and stay up to date in the technology of the field\n\n\nYear 3 – Get promoted as Senior developer\n\nLeadership\n\nOffer to help those that are struggling with their code\nServe as a team lead at a hackathon\n\nTeamwork\n\nAsk my superiors where I need to improve to become more effective for them\n\n\nYear 4 – Found a start up\n\nNetworking\n\nTalk with peers about an idea and ask if they are interested in helping me out\nFind avenues of funding so that we can get the money that we need for it\n\nLeadership\n\nHave a vision for the project\nLay out components that I need for it\nDelegate to those that are willing to start this with me",
+    "crumbs": [
+      "Professional Opportunities"
     ]
   },
   {
@@ -20,6 +61,34 @@
     ]
   },
   {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data Analysis and Visualization",
+    "section": "",
+    "text": "Project link\nUsing a decision tree machine learning algorithm, I developed a model to determine whether a house was built before or after 1980, based on several data points. The report indicates that the number of stories a house has, the type of garage, and the living area significantly contribute to the algorithm’s ability to determine the construction date."
+  },
+  {
+    "objectID": "data.html#construction-date",
+    "href": "data.html#construction-date",
+    "title": "Data Analysis and Visualization",
+    "section": "",
+    "text": "Project link\nUsing a decision tree machine learning algorithm, I developed a model to determine whether a house was built before or after 1980, based on several data points. The report indicates that the number of stories a house has, the type of garage, and the living area significantly contribute to the algorithm’s ability to determine the construction date."
+  },
+  {
+    "objectID": "algorithmic-thinking.html",
+    "href": "algorithmic-thinking.html",
+    "title": "Algorithmic Thinking",
+    "section": "",
+    "text": "Project link\nThis is a project that encapsulates a simple algorithm in always winning tic tac toe. Originally designed to be played by two people, this program makes it possible to play tic tac toe with just yourself. The program uses Go as the only language."
+  },
+  {
+    "objectID": "algorithmic-thinking.html#tic-tac-toe-ai",
+    "href": "algorithmic-thinking.html#tic-tac-toe-ai",
+    "title": "Algorithmic Thinking",
+    "section": "",
+    "text": "Project link\nThis is a project that encapsulates a simple algorithm in always winning tic tac toe. Originally designed to be played by two people, this program makes it possible to play tic tac toe with just yourself. The program uses Go as the only language."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
@@ -30,104 +99,101 @@
     ]
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact Me",
+    "objectID": "cloud.html",
+    "href": "cloud.html",
+    "title": "Cloud and DevOps",
     "section": "",
-    "text": "Here is where you can contact me",
-    "crumbs": [
-      "Contact"
-    ]
+    "text": "Project link\nThis is currently a project I am actively working on. It uses AWS products like S3, DynamoDB, Amplify, Lambda, and others to create a website from back to front. It will be a platform for small businesses such as food trucks will be easily found by local consumers. It will be a place where local consumers can subscribe to notificaitons from the food trucks."
   },
   {
-    "objectID": "web-development.html",
-    "href": "web-development.html",
-    "title": "Web Development",
+    "objectID": "cloud.html#food-truck-locator",
+    "href": "cloud.html#food-truck-locator",
+    "title": "Cloud and DevOps",
     "section": "",
-    "text": "This is a project I am working that incorporates front-end, back-end, and APIs, all using AWS products to accomplish it."
+    "text": "Project link\nThis is currently a project I am actively working on. It uses AWS products like S3, DynamoDB, Amplify, Lambda, and others to create a website from back to front. It will be a platform for small businesses such as food trucks will be easily found by local consumers. It will be a place where local consumers can subscribe to notificaitons from the food trucks."
   },
   {
-    "objectID": "algorithmic-thinking.html",
-    "href": "algorithmic-thinking.html",
-    "title": "Algorithmic Thinking",
+    "objectID": "database.html",
+    "href": "database.html",
+    "title": "Database Design",
     "section": "",
-    "text": "This is a project that encapsulates a simple algorithm in always winning tic tac toe."
+    "text": "Star Wars Database\nFrom a database of survey responses from people who like Star Wars, I created new dataframes that would help answer some questions about the data. These new datatframes also helped me make a machine learning algorithm that predicted a person’s income based on the info gathered in the surveys."
+  },
+  {
+    "objectID": "database.html#star-wars-database-design",
+    "href": "database.html#star-wars-database-design",
+    "title": "Database Design",
+    "section": "",
+    "text": "Star Wars Database\nFrom a database of survey responses from people who like Star Wars, I created new dataframes that would help answer some questions about the data. These new datatframes also helped me make a machine learning algorithm that predicted a person’s income based on the info gathered in the surveys."
+  },
+  {
+    "objectID": "machinelearning.html",
+    "href": "machinelearning.html",
+    "title": "Machine Learning",
+    "section": "",
+    "text": "Colab link\nFyodorAI was a project we made as a team, where I was team lead, to put in practice the skills we were learning in class. This model uses Keras and TensorFlow libraries to build the model. The model is then trained on Crime and Punishment, Brothers of Karamazov, The Idiot, and The Possessed, which are all found in the gutenberg online library. After this training, the model then recieves a prompt and from the prompt it creates a story."
+  },
+  {
+    "objectID": "machinelearning.html#fyodorai",
+    "href": "machinelearning.html#fyodorai",
+    "title": "Machine Learning",
+    "section": "",
+    "text": "Colab link\nFyodorAI was a project we made as a team, where I was team lead, to put in practice the skills we were learning in class. This model uses Keras and TensorFlow libraries to build the model. The model is then trained on Crime and Punishment, Brothers of Karamazov, The Idiot, and The Possessed, which are all found in the gutenberg online library. After this training, the model then recieves a prompt and from the prompt it creates a story."
+  },
+  {
+    "objectID": "machinelearning.html#shakespeareai",
+    "href": "machinelearning.html#shakespeareai",
+    "title": "Machine Learning",
+    "section": "ShakespeareAI",
+    "text": "ShakespeareAI\nColab link\nShakespeareAI was a similar project that I spearheaded alone. In the same way, it trains a couple books of the Shakespeare plays and then with a prompt it can generate up to 100 words. This uses the same libraries and technologies as the previous ones."
   },
   {
     "objectID": "programming-proficiency.html",
     "href": "programming-proficiency.html",
     "title": "Programming Profeciency",
     "section": "",
-    "text": "This is a meditation app that uses polymorphism to accomplish putting the user in a meditative state."
-  },
-  {
-    "objectID": "programming-proficiency.html#go",
-    "href": "programming-proficiency.html#go",
-    "title": "Programming Profeciency",
-    "section": "Go",
-    "text": "Go\nThis is a web crawler I made using Go and parallelism to scrape through the designated website."
-  },
-  {
-    "objectID": "programming-proficiency.html#python",
-    "href": "programming-proficiency.html#python",
-    "title": "Programming Profeciency",
-    "section": "Python",
-    "text": "Python\nThis is a program that removes greenscreen from a video and replaces it with the desired image. This uses parallism and concurrency to remove the green pixels from each image."
-  },
-  {
-    "objectID": "security-authentication.html",
-    "href": "security-authentication.html",
-    "title": "Security and Authentication",
-    "section": "",
-    "text": "https://github.com/lehig/Hello-World/tree/main/SendAFile"
-  },
-  {
-    "objectID": "security-authentication.html#utilizing-encryption-and-decryption-to-send-files",
-    "href": "security-authentication.html#utilizing-encryption-and-decryption-to-send-files",
-    "title": "Security and Authentication",
-    "section": "",
-    "text": "https://github.com/lehig/Hello-World/tree/main/SendAFile"
-  },
-  {
-    "objectID": "security-authentication.html#utilizing-gopenpgp-and-aws-s3-buckets",
-    "href": "security-authentication.html#utilizing-gopenpgp-and-aws-s3-buckets",
-    "title": "Security and Authentication",
-    "section": "Utilizing GopenPGP and AWS S3 Buckets",
-    "text": "Utilizing GopenPGP and AWS S3 Buckets\nhttps://github.com/lehig/gpg-privacy"
-  },
-  {
-    "objectID": "algorithmic-thinking.html#t",
-    "href": "algorithmic-thinking.html#t",
-    "title": "Algorithmic Thinking",
-    "section": "",
-    "text": "Tic Tac Toe AI"
-  },
-  {
-    "objectID": "algorithmic-thinking.html#tic",
-    "href": "algorithmic-thinking.html#tic",
-    "title": "Algorithmic Thinking",
-    "section": "",
-    "text": "Tic Tac Toe AI"
-  },
-  {
-    "objectID": "algorithmic-thinking.html#tic-tac-toe-ai",
-    "href": "algorithmic-thinking.html#tic-tac-toe-ai",
-    "title": "Algorithmic Thinking",
-    "section": "",
-    "text": "This is a project that encapsulates a simple algorithm in always winning tic tac toe."
-  },
-  {
-    "objectID": "web-development.html#website-food-truck-locator",
-    "href": "web-development.html#website-food-truck-locator",
-    "title": "Web Development",
-    "section": "",
-    "text": "This is a project I am working that incorporates front-end, back-end, and APIs, all using AWS products to accomplish it."
+    "text": "Project Link\nThis is a meditation program that uses polymorphism and inheritance to have four different types of meditation. This program is written primarily in C#. Using the Object Oriented parts of the langauge, I create this program for those that want help in meditation."
   },
   {
     "objectID": "programming-proficiency.html#c-sharp",
     "href": "programming-proficiency.html#c-sharp",
     "title": "Programming Profeciency",
     "section": "",
-    "text": "This is a meditation app that uses polymorphism to accomplish putting the user in a meditative state."
+    "text": "Project Link\nThis is a meditation program that uses polymorphism and inheritance to have four different types of meditation. This program is written primarily in C#. Using the Object Oriented parts of the langauge, I create this program for those that want help in meditation."
+  },
+  {
+    "objectID": "programming-proficiency.html#go",
+    "href": "programming-proficiency.html#go",
+    "title": "Programming Profeciency",
+    "section": "Go",
+    "text": "Go\nProject Link\nThis is a web crawler I made using Go and parallelism to scrape through the designated website."
+  },
+  {
+    "objectID": "programming-proficiency.html#python",
+    "href": "programming-proficiency.html#python",
+    "title": "Programming Profeciency",
+    "section": "Python",
+    "text": "Python\nProject Link\nThis is a program that removes greenscreen from a video and replaces it with the desired image. This uses parallism and concurrency to remove the green pixels from each image. You can submit any image you to replace the green screen, or if you have an image with green in it, then it can replace those green pixels. Basically, it finds the green pixels to replace on one image to replace them with another image."
+  },
+  {
+    "objectID": "security-authentication.html",
+    "href": "security-authentication.html",
+    "title": "Security and Authentication",
+    "section": "",
+    "text": "Project Link\nThis project uses C# as its only language. It also uses a couple of libraries that create sockets that then are used to send and recieve files locally from computer to computer. This program also gives the option of using encryption on a file and then decrypting that file."
+  },
+  {
+    "objectID": "security-authentication.html#utilizing-encryption-and-decryption-to-send-files",
+    "href": "security-authentication.html#utilizing-encryption-and-decryption-to-send-files",
+    "title": "Security and Authentication",
+    "section": "",
+    "text": "Project Link\nThis project uses C# as its only language. It also uses a couple of libraries that create sockets that then are used to send and recieve files locally from computer to computer. This program also gives the option of using encryption on a file and then decrypting that file."
+  },
+  {
+    "objectID": "security-authentication.html#utilizing-gopenpgp-and-aws-s3-buckets",
+    "href": "security-authentication.html#utilizing-gopenpgp-and-aws-s3-buckets",
+    "title": "Security and Authentication",
+    "section": "Utilizing GopenPGP and AWS S3 Buckets",
+    "text": "Utilizing GopenPGP and AWS S3 Buckets\nProject Link\nThis project uses Go as its only language. This uses the common GopenPGP library. This program can receive a file, encrypt that file with the specified public key of the recipient, send the file to an S3 bucket, then can be retrieved and decrypted using the public and private key of the recipient."
   }
 ]

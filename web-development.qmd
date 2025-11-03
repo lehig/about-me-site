@@ -2,7 +2,19 @@
 title: "Web Development"
 ---
 
-## Website: Food Truck Locator
+## Food Truck Locator
+
 [This](https://github.com/lehig/food-truck-locator) is a project I am 
 working that incorporates front-end, back-end, and APIs, all using AWS 
-products to accomplish it. 
+products to accomplish it. It will be a platform for small businesses such 
+as food trucks will be easily found by local consumers. It will be a 
+place where local consumers can subscribe to notificaitons from the food 
+trucks. 
+
+## Duneology
+
+[Project link](https://lehig.github.io/wdd130/duneology/index.html)
+
+This website is a simple one that uses HTML and CSS to showcase the vast 
+worldbuilding that happened for Dune to come about. This website has a couple 
+of pages that show different styles and techniques that I learned along the way.

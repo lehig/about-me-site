@@ -4,18 +4,26 @@ title: "Programming Profeciency"
 
 ## C-Sharp
 
-[This](https://github.com/lehig/cse210-projects/tree/main/prove/Develop04) 
-is a meditation app that uses polymorphism to accomplish putting the user
-in a meditative state. 
+[Project Link](https://github.com/lehig/cse210-projects/tree/main/prove/Develop04) 
+
+This is a meditation program that uses polymorphism and inheritance to have four 
+different types of meditation. This program is written primarily in C#. Using the 
+Object Oriented parts of the langauge, I create this program for those that want help 
+in meditation. 
 
 ## Go
 
-[This](https://github.com/lehig/WebCrawly) is a web crawler I made using 
-Go and parallelism to scrape through the designated website.
+[Project Link](https://github.com/lehig/WebCrawly) 
+
+This is a web crawler I made using Go and parallelism to scrape through the 
+designated website. 
 
 ## Python
 
-[This](https://github.com/lehig/CSE251/blob/master/week03/assignment/assignment.py) 
-is a program that removes greenscreen from a video and replaces it with 
+[Project Link](https://github.com/lehig/CSE251/blob/master/week03/assignment/assignment.py)
+
+This is a program that removes greenscreen from a video and replaces it with 
 the desired image. This uses parallism and concurrency to remove the green 
-pixels from each image. 
+pixels from each image. You can submit any image you to replace the green screen, or 
+if you have an image with green in it, then it can replace those green pixels. Basically, 
+it finds the green pixels to replace on one image to replace them with another image. 

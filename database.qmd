@@ -1,0 +1,12 @@
+---
+title: "Database Design"
+---
+
+## Star Wars Database Design
+
+[Star Wars Database](https://turbo-adventure-73gl5qg.pages.github.io/250_Projects/project5.html)
+
+From a database of survey responses from people who like Star Wars, I created 
+new dataframes that would help answer some questions about the data. These new 
+datatframes also helped me make a machine learning algorithm that predicted a person's 
+income based on the info gathered in the surveys. 
